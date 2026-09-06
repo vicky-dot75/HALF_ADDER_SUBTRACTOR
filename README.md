@@ -50,19 +50,25 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-<img width="753" height="394" alt="Screenshot 2025-10-07 134251" src="https://github.com/user-attachments/assets/2b0c3ade-9eb1-45a4-aee2-dcf1f49c2818" />
+<img width="1294" height="583" alt="image" src="https://github.com/user-attachments/assets/9976b289-e421-445d-9e6b-bba53b15ae27" />
 
-<img width="915" height="531" alt="Screenshot 2025-10-07 131855" src="https://github.com/user-attachments/assets/cb21fb3f-3dc4-49bc-a3ef-cc385620b31e" />
 
+
+Developed by: vignesh s
+
+RegisterNumber:*/212225040489
 
 **RTL Schematic**
 
+<img width="1178" height="756" alt="image" src="https://github.com/user-attachments/assets/0546d751-5676-4cc4-abd8-12d8c05e6086" />
+
+
+
 **Output/TIMING Waveform**
 
-<img width="1912" height="749" alt="Screenshot 2025-10-07 134512" src="https://github.com/user-attachments/assets/339aa476-2d86-41ee-b90d-9f0ec2ffb135" />
+<img width="1098" height="577" alt="image" src="https://github.com/user-attachments/assets/daf6eff6-26c6-4b6c-8178-546c26cf1ef1" />
 
-<img width="1920" height="798" alt="Screenshot 2025-10-07 132140" src="https://github.com/user-attachments/assets/e1a5a824-10e3-4177-88bc-124173768d2e" />
 
 **Result:**
 
-this is proved by the quartus prime web edition
+Result: Thus the basic logic gates are studied and the truth tables are verified.
